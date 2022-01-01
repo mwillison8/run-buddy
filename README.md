@@ -12,3 +12,5 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Marissa Willison
+
+### ©️2019 Rub Buddy, Inc
