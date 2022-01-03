@@ -130,18 +130,14 @@ body {
 
 /* Hero Style End */
  
-.intro {
-  text-align: center;
-  padding: 0 100px 20px 100px;
-}
-
 .section-title {
   font-size: 55px;
   color: #024e76;
-  margin-bottom: 35px;
-  padding: 0 100px 20px 100px;
-  display: inline-block;
   border-bottom: 3px solid;
+  padding-bottom: 20px;
+  text-align: center;
+  margin: 0 auto 35px auto;
+  width: 50%;
 }
 
 .primary-border {
@@ -158,10 +154,10 @@ body {
   width: 80%;
   font-size: 20px;
   margin: 0 auto;
+  text-align: center;
 }
 
 .steps {
-  text-align: center;
   background: #fce138;
 }
 
@@ -192,7 +188,6 @@ body {
 /* trainer style starts */
 
 .trainers{
-  text-align: center;
 }
 
 .trainer{
@@ -214,14 +209,6 @@ body {
   width: 65%;
 }
 
-.text-left {
-  text-align: left;
-}
-
-.text-right {
-  text-align: right;
-}
-
 .trainer-bio h3{
   font-size: 32px;
   margin-bottom: 8px;
@@ -239,7 +226,6 @@ body {
 }
 
 .contact {
-   text-align: center;
    background: #024e76;
    padding: 0 100px 20px 100px;
 }
@@ -276,6 +262,18 @@ body {
 
 .contact-info a {
   color: #fce138;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.flex-row {
+  display: flex;
 }
 
 /* REACH OUT STYLES END*/
